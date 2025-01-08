@@ -56,4 +56,6 @@ By applying these advanced techniques and principles, this project showcases exp
 - Share the dashboard and report via a GitHub repository to enable collaboration and feedback.
 - Integrate the project’s README file with this overview and ensure it aligns with GitHub standards.
 
+Tableau Public Project Link: https://public.tableau.com/app/profile/amith.gundluri/viz/SalesProfitPerformanceInsights/SalesDashboard
+
 
